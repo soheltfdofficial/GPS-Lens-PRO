@@ -1,0 +1,6 @@
+{
+  "name": "GPS Lens Pro",
+  "description": "A professional GPS camera app with real-time location watermarks, satellite thumbnails, and customizable overlay styles.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": []
+}
